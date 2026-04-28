@@ -1,9 +1,9 @@
-# Towards Improved Sentence Representations Using Token Graphs
+<!-- # Towards Improved Sentence Representations Using Token Graphs
 
 
 This repository is the official implementation of [Towards Improved Sentence Representations Using Token Graphs](https://openreview.net/forum?id=stMX9KBhUI). 
 
-<image src="glot.png" width="100%">
+<image src="glot.png" width="100%"> -->
 
 
 ## Environment Setup
